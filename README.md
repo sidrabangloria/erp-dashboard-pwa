@@ -1,4 +1,4 @@
-# NexaCorp ERP PWA - Project 3 An PWA
+# NexaCorp ERP PWA - Project 3 Angular  PWA
 
 This is an AngularJS progressive web application adaptation of the Project 2 ERP dashboard.
 
